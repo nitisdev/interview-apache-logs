@@ -1,0 +1,6 @@
+# created by virtualenv automatically
+bin/
+lib/
+CACHEDIR.TAG
+pyvenv.cfg
+.python-version
